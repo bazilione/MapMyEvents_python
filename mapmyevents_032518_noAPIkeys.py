@@ -8,7 +8,7 @@ import sys
 input_origin = 'Coralville,IA'
 input_destination = 'Chicago,IL'
 keyword1 = 'music'
-radius = 50
+radius = 50 #km
 start_date_time_start = '2018-05-21'
 start_date_time_start = start_date_time_start + 'T18:00:00'
 start_date_time_end = '2018-05-28'
